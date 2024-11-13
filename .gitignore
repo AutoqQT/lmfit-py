@@ -27,4 +27,3 @@ examples/*.sav
 *.coverage*
 *htmlcov/*
 .eggs
-lmfit/version.py
